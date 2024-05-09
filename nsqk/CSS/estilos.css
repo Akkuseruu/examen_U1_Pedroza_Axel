@@ -1,0 +1,16 @@
+div{
+    text-align: center;
+}
+
+body{
+    background-color: azure;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(157, 97, 214) ;
+}
+
+p{
+    font-size: larger;
+}
